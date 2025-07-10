@@ -34,48 +34,10 @@
 </p>
 
 ---
-
-### 📈 Featured Projects
-
-#### 🔹 GST Analysis Dashboard | Apollo Pharmacy
-> Designed to reconcile GST & HSN discrepancies from master and purchase data  
-> ✅ Enabled pinpoint-level discrepancy resolution  
-> ✅ Ensured regulatory compliance and financial accuracy
-
-#### 🔹 Sales vs KRA Dashboard | Apollo Pharmacy  
-> Handled 5 Cr+ rows with seamless performance  
-> 📊 Complex DAX, Hierarchical Views, Bookmark Navigation  
-> 🔒 Row-Level Security (RLS) Implemented
-
----
-
-### 🏢 Work Experience
-
-#### 👨‍💻 **Birlasoft** (Jun 2024 – Present)  
-- Designed real-time sales dashboards, improving revenue by 40%  
-- Reduced report rendering time by 50% using DAX optimization  
-- Developed Azure Data Factory pipelines with alerting systems
-
-#### 👨‍💻 **Retail Insights** (Dec 2022 – May 2024)  
-- Led Power BI governance and training efforts  
-- Developed reusable templates & role-based dashboards
-
-#### 👨‍💻 **Meesho** (Mar 2022 – Dec 2022)  
-- Built drill-through, cross-report dashboards  
-- Created reusable pipelines in ADF with parameterized datasets
-
----
-
-### 🎓 Education & Certifications
-
-- 🎓 **B.Sc., Kanpur University** (2014 – 2017)
-- 📜 *Databricks AI Fundamentals*, *Great Learning Power BI*, *Simplilearn SQL*
-
----
-
 ### 🏆 Awards
 
 - 🥇 **Pillar of Success Award** – IndiaMART (2020)
+- 🥇 **Customer Centricity Award** – Birlasoft (2025)
 
 ---
 
